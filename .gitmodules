@@ -1,0 +1,6 @@
+[submodule "copter_node"]
+	path = copter_node
+	url = https://github.com/Lukerrr/airmon.git
+[submodule "ground_station"]
+	path = ground_station
+	url = https://github.com/Lukerrr/airmon-control.git
