@@ -17,7 +17,7 @@
 ### Первый способ
 
 Для загрузки файла прошивки формата .hex можно воспользоваться программатором отладчиком [St link V2](https://www.st.com/en/development-tools/st-link-v2.html) или его бюджетной копией.
-Загрузка прошивки в плату в таком случае осущетсвляется при помощи програм STM32Utility или [STMCubeProgrammer](https://wiki.st.com/stm32mpu/wiki/STM32CubeProgrammer).
+Загрузка прошивки в плату в таком случае осуществляется при помощи программ STM32Utility или [STMCubeProgrammer](https://wiki.st.com/stm32mpu/wiki/STM32CubeProgrammer).
 
 ### Второй способ
 
