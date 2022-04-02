@@ -1,4 +1,4 @@
-# Система автоматического измерения и анализа воздуха (Air Analisys System)
+# Система автоматического измерения и анализа воздуха (Air Analysis System)
 
 <img src="docs/pictures/logo1.jpg" width=600>
 
