@@ -22,6 +22,6 @@
 ### Второй способ
 
 Для прошивки вторым способом, необходимо подключить к UART1 микроконтроллера(пины PA9-TX, PA10-RX) любой ttl конвертер (например, [такой](https://www.chipdip.ru/catalog/popular/usb-uart))
-и воспользоваться STMCubeProgrammer или [Flasher-STM32](https://www.st.com/en/development-tools/flasher-stm32.html), подключив перед этим пин boot0 микроконтроллера к земле.
+и воспользоваться STMCubeProgrammer или [Flasher-STM32](https://www.st.com/en/development-tools/flasher-stm32.html), подключив перед этим пин boot0 микроконтроллера к напряжению 3.3 вольт.
 
 Подробные руководства можно найти [здесь](https://blog.kvv213.com/2020/01/kak-proshit-chip-stm32/).
